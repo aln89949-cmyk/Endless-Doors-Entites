@@ -1,4 +1,4 @@
-local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Doors%20Entity%20Spawner/Source.lua"))()
+local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/aln89949-cmyk/Endless-Doors-Entites/refs/heads/main/Source.lua"))()
 
 
 -- Create entity
